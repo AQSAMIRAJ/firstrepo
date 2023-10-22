@@ -72,11 +72,12 @@ _italic text_
 3. day3
 4. day4
 5. day5
+6. there is nothing wronge
    1. day5a
    2. day5b 
-6. day6
-7. day7
-8. day8
+7. day6
+8. day7
+9. day8
 
 # 7- line breaks or page breaks
 
